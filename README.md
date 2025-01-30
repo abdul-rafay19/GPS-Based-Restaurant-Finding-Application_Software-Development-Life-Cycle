@@ -32,4 +32,4 @@ This project strengthens my expertise in **software documentation, project plann
 If you find this project valuable, feel free to **connect and collaborate!** 🚀  
 
 🔹 **LinkedIn:** [Abdul Rafay](https://www.linkedin.com/in/abdul-rafay19)  
-🔹 **GitHub:** [Your GitHub Profile](https://github.com/abdul-rafay19)  
+🔹 **GitHub:** [My GitHub Profile](https://github.com/abdul-rafay19) 
