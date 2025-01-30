@@ -1,36 +1,35 @@
-# 📍 GPS-Based Restaurant Finding Application  
-*A comprehensive SDLC documentation for a restaurant discovery solution.*
+# 📍 GPS-Based Restaurant Finding Application (SDLC Documentation)  
+*A structured approach to software development using the SDLC framework.*
 
 ## 🌟 Project Overview  
-This project applies the **Software Development Life Cycle (SDLC)** to solve a real-world issue:  
+This project is a **detailed Software Development Life Cycle (SDLC) documentation** for a **GPS-Based Restaurant Finding Application**. The focus is on applying SDLC phases to a real-world problem rather than actual software development.  
 
-> ❌ Existing restaurant finder apps lack **real-time updates** and **personalized recommendations**, making dining decisions inefficient.  
+> **Problem Statement:** Existing restaurant finder apps lack **real-time updates** and **personalized recommendations**, making dining discovery inefficient.  
 
-To address this, I developed a structured **SDLC documentation** outlining the design and development of a **GPS-Based Restaurant Finding Application**.  
+To address this, I documented a structured **SDLC approach**, covering:  
 
-## 🚀 Key Highlights  
 ✅ **Problem Identification & Statement**  
-✅ **Functional & Non-Functional Requirements**  
-✅ **System Architecture & Design Considerations**  
-✅ **Development Model Selection** (Agile - Scrum)  
+✅ **Stakeholder Analysis & Requirement Gathering**  
+✅ **System Architecture & Design**  
+✅ **Development Model Selection (Agile - Scrum)**  
 ✅ **Testing & Deployment Strategies**  
 
 ## 🛠 Technologies & Methodologies  
 - **Software Development Life Cycle (SDLC)**  
 - **Agile Methodology (Scrum Framework)**  
-- **System Design & Documentation**  
-- **Stakeholder Identification & Requirement Analysis**
+- **System Design & Technical Documentation**  
+- **Requirement Analysis & Stakeholder Identification**  
 
-## 🎯 Why This Project?  
-This project enhances **technical documentation, software planning, and structured problem-solving**—essential for **real-world software development**.  
+## 🎯 Why This Project Matters  
+This project strengthens my expertise in **software documentation, project planning, and structured problem-solving**—crucial skills for real-world software engineering.  
 
 ## 💡 Future Enhancements  
-🔹 **Prototype Development** with real-time APIs  
-🔹 **User Experience Optimization**  
-🔹 **Machine Learning-Based Recommendations**  
+🔹 Expanding documentation with a **prototype implementation**  
+🔹 Adding **wireframes & UI/UX design details**  
+🔹 Exploring **AI-based restaurant recommendations**  
 
 ## 🔗 Connect With Me  
-If you find this project interesting, feel free to **connect and collaborate!** 🚀  
+If you find this project valuable, feel free to **connect and collaborate!** 🚀  
 
-🔹 **LinkedIn:** [Abdul Rafay](https://www.linkedin.com/in/abdulrafay)  
-🔹 **GitHub:** [Your GitHub Profile](https://github.com/yourusername)  
+🔹 **LinkedIn:** [Abdul Rafay](https://www.linkedin.com/in/abdul-rafay19)  
+🔹 **GitHub:** [Your GitHub Profile](https://github.com/abdul-rafay19)  
